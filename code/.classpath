@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="QQClient/src"/>
+	<classpathentry kind="src" path="QQServer/src"/>
+	<classpathentry kind="output" path="QQClient/bin"/>
+</classpath>
